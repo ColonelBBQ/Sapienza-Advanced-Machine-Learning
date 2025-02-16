@@ -22,13 +22,13 @@ The dataset was sourced from **Harvard Dataverse** and includes Montana traffic 
 
 The slope for each edge was computed as:  
 
-\[
+$$
 \text{slope} = \frac{E_{\text{target}} - E_{\text{source}}}{L}
-\]
+$$
 
 Where:  
-- \(E_{\text{target}}\) and \(E_{\text{source}}\) are the elevations of the target and source nodes, respectively.  
-- \(L\) is the road segment length.  
+- $\(E_{\text{target}}\) and \(E_{\text{source}}\)$ are the elevations of the target and source nodes, respectively.  
+- $\(L\)$ is the road segment length.  
 
 ### New Scripts in This Fork  
 
